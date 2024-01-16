@@ -1,55 +1,58 @@
 <h1> Lesson 1.4: Understanding Cyber Threats</h1>
 <h2> Summary</h2>
 
-<p1>In this Lesson, students will understand the three foundational pillars that cybersecurity is built on, the CIA Triad.</p1>
+<p1>Upon completing this lesson, students will be adept at defining what constitutes a threat in the realm of cybersecurity. Furthermore, they will be equipped to identify and articulate several prevalent threats encountered in the field, thereby laying a foundational understanding of the cybersecurity landscape.</p1>
 <br>
 
 <h2>Learning Objectives</h2>
 <ul>
-<li>To understand the three key principles of cybersecurity: Confidentiality, Integrity, and Availability. </li>
+<li>Define and articulate the concept of a threat within the cybersecurity context, explaining its relevance and implications in maintaining digital security.</li>
   <br>
-<li>To be able to give examples of each principle in real-world contexts.</li><br>
+<li>Identify and describe several common cyber threats, illustrating how they operate and their potential risks to individuals and organizations.</li><br>
   
-<li>Students will evaluate methods of protecting information and information systems from disruption and destruction.</li></ul>
+<li>Analyze real-world scenarios to recognize and categorize cyber threats, demonstrating a foundational understanding of cybersecurity.</li><br>
+
+<li>Reflect on the importance of staying informed about emerging cyber threats, acknowledging the evolving nature of challenges in the cybersecurity field.</li>
+</ul>
 
 <h2>Vocabulary and Acronyms</h2>
 
 <ul>
 <li>
 
-  **Confidentiality**</li>
+  **Cyber Threat**</li>
   
 <li>
 
-**Integrity**</li>
+**Social Engineering**</li>
   
 <li>
   
-**Availability**</li>
+**Firewall**</li>
   
 <li>
   
-**Encryption**</li>
+**Malware**</li>
   
 <li>
   
-  **Backup**</li>
+  **DDOS Attack**</li>
   
 <li>
   
-  **Digital Signatures**</li>
+ **VPN- Virtual Private Network**</li>
   
 <li>
   
-  **Authentication**</li>
+  **Ransomware**</li>
   
 <li>
   
-  **Hashing**</li>
+  **Zero-Day Vulnerability**</li>
   
 <li>
   
-  **Redundancy**</li>
+  **Threat Intelligence**</li>
 
 
 </ul>
@@ -70,59 +73,114 @@
 
 
 <h2>Lesson Prerequisites</h2>
-<p1> Previous experience with or understanding of cybersecurity is optional. We assume basic familiarity with computing and technology. </p1>
+<p1> Any topical or subject matter to prepare for the lesson. In Advanced Cyber Lessons, previous Lessons can be referenced. </p1>
 <br>
-<br>
-<h2>Understanding the CIA Triad in Cybersecurity</h2>
-<h3><ins>Introduction</ins></h3>
-<p1>Today, we delve into the heart of cybersecurity: the CIA triad. These three principles—Confidentiality, Integrity, and Availability—form the cornerstone of any robust cybersecurity framework. Throughout today's lecture, we'll explore what each principle means, its importance, real-world applications, and potential careers focusing on these aspects. Let's dive in! <br>
-
-<h3><ins>Learning Objective 1: Define the CIA Triad</ins></h3>
-
-**CIA Triad**: The CIA triad stands for Confidentiality, Integrity, and Availability. It is a model designed to guide information security policies within an organization.<br>
-<br>
-The CIA triad is not just an abstract concept; it's a practical guide that helps organizations and individuals protect sensitive information and ensure robust cybersecurity. Each pillar of the triad serves a specific purpose and is essential for different aspects of security.
 <br>
 
-<h3><ins>Learning Objective 2: Understand Why the CIA Triad is Essential</ins></h3>
+<h2>Introduction</h2>
 
-In our increasingly digital world, the principles of the CIA triad safeguard our data, protect our identities, and even ensure that critical services like healthcare and utilities are secure and reliable. Ignoring any one of these principles can lead to serious vulnerabilities.
+<p1>Cybersecurity is a battlefield where professionals strive to secure digital territories against a myriad of threats. With the rapid proliferation of digital assets, the nature and sophistication of cyber threats have evolved. Understanding these threats is the linchpin to devising effective security measures. This lesson illuminates the landscape of cyber threats, providing students with the insight to identify and contextualize common threats faced in the digital domain. <br>
+
+
+
+
+
+
+
+
+<h3><ins>Defining Cyber Threats</ins></h3>
+
+**Definition:** A cyber threat is a potential malicious act that seeks to disrupt digital operations, compromise data integrity, or exploit digital resources.<br>
+
+<ins>Examples:</ins>
+<ul>
+<li>Malware: Malicious software like viruses, worms, and trojan horses designed to infiltrate or damage computer systems.</li>
+  <br>
+<li>Phishing: Cyber attacks disguised as legitimate communications aimed at harvesting sensitive information.</li>
+</ul>
 <br>
 
-<h3><ins>Learning Objective 3: Real-world Applications of the CIA Triad</ins></h3>
-Examples of the CIA triad are all around us. Banks use all three principles to secure transactions. Websites use SSL certificates for secure data transfer, embodying both confidentiality and integrity. Our smartphones employ various layers of the CIA triad to protect our personal information.
+**Importance**: Grasping the concept of cyber threats is fundamental to navigating the cybersecurity landscape. It forms the bedrock upon which effective security policies and measures are built.
 <br>
 
-<h3><ins>Learning Objective 4: Understanding the Tools that Support the CIA Triad</ins></h3>
-Various tools and technologies can help implement the principles of the CIA triad. For example, using strong passwords and two-factor authentication (2FA) can help ensure confidentiality. Regular backups and data validation are essential for maintaining both integrity and availability.
+<h3><ins>Common Cyber Threats</ins></h3>
+
+**Identification:** Being able to recognize common threats is the first step toward cybersecurity preparedness.<br>
+
+<ins>Examples:</ins>
+<ul>
+<li>Ransomware: Malware that encrypts files and demands a ransom for decryption.</li>
+  <br>
+<li>DDoS Attacks: Coordinated attacks that overwhelm systems with traffic to render them unavailable.</li>
+</ul>
 <br>
 
-<h3><ins>Learning Objective 5: What are Different Careers Focused on the CIA Triad?</ins></h3>
-Different careers in cybersecurity may focus on one or more aspects of the CIA triad. For example, a Security Auditor might specialize in evaluating the integrity and confidentiality of stored data, while a Systems Administrator ensures the availability of services.
+**Importance:** Awareness of common threats empowers individuals and organizations to effectively tailor their security measures and response strategies.
 <br>
+
+<h3><ins>Real-World Threat Scenarios</ins></h3>
+
+**Analysis:** Examining real-world instances of cyber threats imparts a practical understanding of their impact and the requisite mitigation strategies. <br>
+
+<ins>Examples:</ins>
+<ul>
+<li>Zero-Day Vulnerabilities: Exploits that take advantage of unknown software vulnerabilities.</li>
+  <br>
+<li>Social Engineering Attacks: Manipulative tactics aimed at tricking individuals into divulging confidential information.</li>
+</ul>
+<br>
+
+**Importance:** Analyzing real-world scenarios enhances the practical understanding and application of cybersecurity principles in thwarting cyber threats.
+<br>
+
+<h3><ins>Mitigation Strategies</ins></h3>
+
+**Evaluation:** Assessing the efficacy of mitigation strategies like firewalls, intrusion detection systems, and encryption in countering cyber threats.<br>
+
+<ins>Examples:</ins>
+<ul>
+<li>Patch Management: Keeping software updated to remedy known vulnerabilities.</li>
+  <br>
+<li>Multi-Factor Authentication (MFA): Employing multiple forms of authentication to bolster security.</li>
+  </ul>
+  <br>
+
+**Importance:** Effective mitigation strategies are crucial in reducing vulnerability to cyber threats and ensuring digital resilience.
+
+
+<h3><ins>Evolving Threat Landscape</ins></h3>
+
+**Reflection:** Emphasizing the importance of continuous learning and adaptation in the face of an evolving threat landscape.
+
+
+<ins>Examples:</ins>
+<ul>
+<li>Threat Intelligence: Utilizing evidence-based knowledge to stay ahead of emerging threats.</li>
+  <br>
+<li>Incident Response: Preparing for and managing the aftermath of a cyber-attack.</li>
+</ul>
+<br>
+
+
+**Importance:** Staying informed and adaptable is paramount in maintaining a robust cybersecurity posture amidst an ever-changing threat environment.
   
-  
+
 <h2>Conclusion</h2>
-<p1>Today, we've explored the CIA triad, its importance, real-world applications, supporting tools, and career options. Understanding these fundamental principles will not only help us become more secure in our digital interactions but also open the door to a variety of career paths in the cybersecurity landscape. <br>
-<br>
-As we conclude, let's remember that the principles of the CIA triad serve as a foundational guide for anyone interested in cybersecurity. Always be proactive in employing these principles to secure your digital world.
+<p1>Understanding cyber threats is a cornerstone of cybersecurity education. By delving into the nature, examples, and mitigation strategies pertaining to cyber threats, students are better poised to navigate the digital world securely. This lesson aims to instill a solid foundational understanding, preparing students to tackle the challenges that lie ahead in the realm of cybersecurity. Through a blend of theoretical knowledge and practical insights, students will emerge with a well-rounded perspective on combating cyber threats.
 </p1>
 <br>
  
 
 
 <h2> Presentation</h2>
-<a href= "https://docs.google.com/presentation/d/1b_rjKlx8CDA0s09PlVIY7_YwxVeadURO/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Information Security and the CIA Triad </a>
+<a href= "https://docs.google.com/presentation/d/1-uEbGgVKI3W_ZgOlQm2YW_6sVzJMyYpE/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Understanding Cyber Threats </a>
  <br>
 <h2> Hands-On Labs</h2>
- <a href="https://docs.google.com/document/d/1_zTeFwzBk55tdPuZNPvYTRmy7nmROtqQcxdYQGc8-KY/edit?usp=sharing"> CIA Research Activity </a>
+ <a href="https://docs.google.com/document/d/1FlvEi7AdondcewdfP7KAkcD6fzgbwn2OJGPumJjHcIE/edit?usp=sharing">Cyber Threat Activity </a><br>
  <br>
+ <a href="https://docs.google.com/document/d/1E1juUtBjK_gxcEXWMWHlWQkWMQw-4RXtwESN9GGseKE/edit?usp=sharing"> Cyber Threat Reflection </a>
 
 <h2> Additonal Resources</h2>
 <p1>
-Pesante, L. <a href="https://www.cisa.gov/sites/default/files/publications/infosecuritybasics.pdf">"Introduction to Information Security [PDF]” </a>February 06, 2013. CISA.
- <br>
-<br>
-Cole, M., Esposito, R., Biddle, S., & Grim, R. (2017, June 5). <a href="https://theintercept.com/2017/06/05/top-secret-nsa-report-details-russian-hacking-effort-days-before-2016-election/"> Top-Secret NSA Report Details Russian Hacking Effort Days Before 2016 Election. The Intercept.</a>
-  
+
 </p1>
