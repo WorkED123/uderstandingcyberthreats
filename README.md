@@ -94,9 +94,9 @@
 
 <ins>Examples:</ins>
 <ul>
-<li>Malware: Malicious software like viruses, worms, and trojan horses designed to infiltrate or damage computer systems.</li>
+<li><b>Malware:</b> Malicious software like viruses, worms, and trojan horses designed to infiltrate or damage computer systems.</li>
   <br>
-<li>Phishing: Cyber attacks disguised as legitimate communications aimed at harvesting sensitive information.</li>
+<li><b>Phishing:</b> Cyber attacks disguised as legitimate communications aimed at harvesting sensitive information.</li>
 </ul>
 <br>
 
@@ -109,9 +109,9 @@
 
 <ins>Examples:</ins>
 <ul>
-<li>Ransomware: Malware that encrypts files and demands a ransom for decryption.</li>
+<li><b>Ransomware:</b> Malware that encrypts files and demands a ransom for decryption.</li>
   <br>
-<li>DDoS Attacks: Coordinated attacks that overwhelm systems with traffic to render them unavailable.</li>
+<li><b>DDoS Attacks:</b> Coordinated attacks that overwhelm systems with traffic to render them unavailable.</li>
 </ul>
 <br>
 
@@ -124,9 +124,9 @@
 
 <ins>Examples:</ins>
 <ul>
-<li>Zero-Day Vulnerabilities: Exploits that take advantage of unknown software vulnerabilities.</li>
+<li><b>Zero-Day Vulnerabilities:</b> Exploits that take advantage of unknown software vulnerabilities.</li>
   <br>
-<li>Social Engineering Attacks: Manipulative tactics aimed at tricking individuals into divulging confidential information.</li>
+<li><b>Social Engineering Attacks:</b> Manipulative tactics aimed at tricking individuals into divulging confidential information.</li>
 </ul>
 <br>
 
@@ -139,9 +139,9 @@
 
 <ins>Examples:</ins>
 <ul>
-<li>Patch Management: Keeping software updated to remedy known vulnerabilities.</li>
+<li><b>Patch Management:</b> Keeping software updated to remedy known vulnerabilities.</li>
   <br>
-<li>Multi-Factor Authentication (MFA): Employing multiple forms of authentication to bolster security.</li>
+<li><b>Multi-Factor Authentication (MFA):</b> Employing multiple forms of authentication to bolster security.</li>
   </ul>
   <br>
 
@@ -155,9 +155,9 @@
 
 <ins>Examples:</ins>
 <ul>
-<li>Threat Intelligence: Utilizing evidence-based knowledge to stay ahead of emerging threats.</li>
+<li><b>Threat Intelligence:</b> Utilizing evidence-based knowledge to stay ahead of emerging threats.</li>
   <br>
-<li>Incident Response: Preparing for and managing the aftermath of a cyber-attack.</li>
+<li><b>Incident Response:</b> Preparing for and managing the aftermath of a cyber-attack.</li>
 </ul>
 <br>
 
@@ -169,7 +169,26 @@
 <p1>Understanding cyber threats is a cornerstone of cybersecurity education. By delving into the nature, examples, and mitigation strategies pertaining to cyber threats, students are better poised to navigate the digital world securely. This lesson aims to instill a solid foundational understanding, preparing students to tackle the challenges that lie ahead in the realm of cybersecurity. Through a blend of theoretical knowledge and practical insights, students will emerge with a well-rounded perspective on combating cyber threats.
 </p1>
 <br>
- 
+
+<h2>Vocabulary</h2>
+<b>Cyber Threat:</b> Any potential malicious attack that seeks to gain unauthorized access to data, disrupt digital operations, or damage information.<br>
+<br>
+
+<b>Firewall:</b> A network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+<b>Malware:</b> Malicious software designed to harm, exploit, or otherwise compromise a computer system or network.
+
+<b>DDOS Attack (Distributed Denial of Service Attack):</b> An attack aimed at disrupting the normal traffic of a targeted server, service, or network by overwhelming it with a flood of Internet traffic.
+
+<b>VPN (Virtual Private Network):</b> A service that encrypts your internet connection and hides your IP address to protect your online privacy and security.
+
+<b>Ransomware:</b> A type of malware that encrypts a victim's files and demands a ransom payment to restore access.
+
+<b>Zero-Day Vulnerability:</b> A software security flaw that is unknown to the software vendor and can be exploited by attackers before a fix is released.
+
+<b>Threat Intelligence:</b> Information that organizations use to understand the threats that have, will, or are currently targeting them.
+
+<b>Social Engineering:</b> A manipulation technique that exploits human error to gain private information, access, or valuables.
 
 
 <h2> Presentation</h2>
@@ -179,6 +198,7 @@
  <a href="https://docs.google.com/document/d/1FlvEi7AdondcewdfP7KAkcD6fzgbwn2OJGPumJjHcIE/edit?usp=sharing">Cyber Threat Activity </a><br>
  <br>
  <a href="https://docs.google.com/document/d/1E1juUtBjK_gxcEXWMWHlWQkWMQw-4RXtwESN9GGseKE/edit?usp=sharing"> Cyber Threat Reflection </a>
+<h2>Games</h2>
 
 <h2> Additonal Resources</h2>
 <p1>
