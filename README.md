@@ -170,26 +170,34 @@
 </p1>
 <br>
 
-<h2>Vocabulary</h2>
-<b>Cyber Threat:</b> Any potential malicious attack that seeks to gain unauthorized access to data, disrupt digital operations, or damage information.<br>
+<h2>Definitions</h2>
+<ul>
+<li><b>Cyber Threat:</b> Any potential malicious attack that seeks to gain unauthorized access to data, disrupt digital operations, or damage information.<br>
 <br>
 
-<b>Firewall:</b> A network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+<li><b>Firewall:</b> A network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules.<br>
+<br>
 
-<b>Malware:</b> Malicious software designed to harm, exploit, or otherwise compromise a computer system or network.
+<li><b>Malware:</b> Malicious software designed to harm, exploit, or otherwise compromise a computer system or network.<br>
+<br>
 
-<b>DDOS Attack (Distributed Denial of Service Attack):</b> An attack aimed at disrupting the normal traffic of a targeted server, service, or network by overwhelming it with a flood of Internet traffic.
+<li><b>DDOS Attack (Distributed Denial of Service Attack):</b> An attack aimed at disrupting the normal traffic of a targeted server, service, or network by overwhelming it with a flood of Internet traffic.<br>
+<br>
 
-<b>VPN (Virtual Private Network):</b> A service that encrypts your internet connection and hides your IP address to protect your online privacy and security.
+<li><b>VPN (Virtual Private Network):</b> A service that encrypts your internet connection and hides your IP address to protect your online privacy and security.<br>
+<br>
 
-<b>Ransomware:</b> A type of malware that encrypts a victim's files and demands a ransom payment to restore access.
+<li><b>Ransomware:</b> A type of malware that encrypts a victim's files and demands a ransom payment to restore access.<br>
+<br>
 
-<b>Zero-Day Vulnerability:</b> A software security flaw that is unknown to the software vendor and can be exploited by attackers before a fix is released.
+<li><b>Zero-Day Vulnerability:</b> A software security flaw that is unknown to the software vendor and can be exploited by attackers before a fix is released.<br>
+<br>
 
-<b>Threat Intelligence:</b> Information that organizations use to understand the threats that have, will, or are currently targeting them.
+<li><b>Threat Intelligence:</b> Information that organizations use to understand the threats that have, will, or are currently targeting them.<br>
+<br>
 
-<b>Social Engineering:</b> A manipulation technique that exploits human error to gain private information, access, or valuables.
-
+<li><b>Social Engineering:</b> A manipulation technique that exploits human error to gain private information, access, or valuables.
+</ul>
 
 <h2> Presentation</h2>
 <a href= "https://docs.google.com/presentation/d/1-uEbGgVKI3W_ZgOlQm2YW_6sVzJMyYpE/edit?usp=sharing&ouid=110228847857413878764&rtpof=true&sd=true"> Understanding Cyber Threats </a>
